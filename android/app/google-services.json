@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "531701629996",
+    "project_id": "pentexe-3933d",
+    "storage_bucket": "pentexe-3933d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531701629996:android:009a6f0d05c915e59d7d89",
+        "android_client_info": {
+          "package_name": "com.example.pentexe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531701629996-29d9c4jv34cbss0fk1h8mavnmih4h3gd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pentexe",
+            "certificate_hash": "f427954aaa0a201feb2a8af6e45603371ea76617"
+          }
+        },
+        {
+          "client_id": "531701629996-4kr9qf2kgi89hscguni6491rkee0bsff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy3hi4nkETQdnGu2Mv6HOCzQ4cl2wOpnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531701629996-4kr9qf2kgi89hscguni6491rkee0bsff.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "531701629996-440b1vb21i7i8n3cclp81kv8n31n9t2c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pentexe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
